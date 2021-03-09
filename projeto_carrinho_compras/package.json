@@ -1,0 +1,15 @@
+{
+  "name": "carrinho_compras",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./src/principal/TestaMaiorEMenor.js",
+  "scripts": {
+    "test": "jest",
+    "dev": "node ./src/principal/TestaMaiorEMenor.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
